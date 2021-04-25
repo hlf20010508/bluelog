@@ -1,0 +1,234 @@
+ * Serving Flask app "bluelog" (lazy loading)
+ * Environment: development
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with fsevents reloader
+ * Debugger is active!
+ * Debugger PIN: 696-756-630
+127.0.0.1 - - [04/Apr/2021 15:50:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Apr/2021 08:43:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Apr/2021 08:43:30] "GET /static/js/popper.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [09/Apr/2021 08:43:30] "GET /static/js/jquery-3.2.1.slim.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [09/Apr/2021 08:43:30] "GET /static/css/perfect_blue.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Apr/2021 08:43:30] "GET /static/js/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [09/Apr/2021 08:43:30] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [09/Apr/2021 08:43:30] "GET /static/css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Apr/2021 08:43:30] "GET /static/js/moment-with-locales.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [09/Apr/2021 08:43:32] "GET /static/favicon.ico HTTP/1.1" 200 -
+127.0.0.1 - - [09/Apr/2021 08:55:40] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Apr/2021 08:55:40] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+127.0.0.1 - - [09/Apr/2021 08:55:40] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+127.0.0.1 - - [09/Apr/2021 08:55:40] "GET /static/favicon.ico HTTP/1.1" 200 -
+127.0.0.1 - - [09/Apr/2021 08:55:40] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Apr/2021 08:55:40] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+127.0.0.1 - - [09/Apr/2021 08:55:40] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+127.0.0.1 - - [09/Apr/2021 08:55:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Apr/2021 08:55:41] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+127.0.0.1 - - [09/Apr/2021 08:55:41] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+127.0.0.1 - - [09/Apr/2021 08:56:40] "GET /auth/login?next=%2F%3F HTTP/1.1" 200 -
+127.0.0.1 - - [09/Apr/2021 08:56:47] "POST /auth/login?next=%2F%3F HTTP/1.1" 302 -
+127.0.0.1 - - [09/Apr/2021 08:56:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Apr/2021 08:56:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:30] "GET /static/js/jquery-3.2.1.slim.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:30] "GET /static/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:30] "GET /static/js/popper.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:30] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:30] "GET /static/css/perfect_blue.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:30] "GET /static/js/script.js HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:30] "GET /static/js/moment-with-locales.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:33] "GET /static/favicon.ico HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:33] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+127.0.0.1 - - [18/Apr/2021 11:42:33] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+127.0.0.1 - - [18/Apr/2021 11:42:43] "GET /admin/post/new HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:43] "GET /static/ckeditor/ckeditor.js HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:43] "GET /static/ckeditor/config.js?t=I3I8 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:43] "GET /static/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:43] "GET /static/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:43] "GET /static/ckeditor/styles.js?t=I3I8 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:43] "GET /static/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:43] "GET /static/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:43] "GET /static/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:43] "GET /static/ckeditor/plugins/scayt/dialogs/dialog.css HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:43] "GET /static/ckeditor/contents.css?t=I3I8 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 11:42:43] "GET /static/ckeditor/skins/moono-lisa/icons_hidpi.png?t=95e5d83 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 12:18:24] "POST /admin/post/new HTTP/1.1" 302 -
+127.0.0.1 - - [18/Apr/2021 12:18:24] "GET /post/51 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 12:18:29] "GET /admin/post/new HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 13:30:03] "POST /admin/post/new HTTP/1.1" 400 -
+127.0.0.1 - - [18/Apr/2021 13:30:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 13:30:28] "POST /admin/post/new HTTP/1.1" 400 -
+127.0.0.1 - - [18/Apr/2021 13:30:40] "GET /admin/post/new HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 13:30:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 13:30:45] "GET /admin/post/new HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 13:30:56] "POST /admin/post/new HTTP/1.1" 302 -
+127.0.0.1 - - [18/Apr/2021 13:30:56] "GET /post/52 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 13:31:18] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 13:31:21] "GET /category/3 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 13:31:23] "GET /category/1 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 13:31:27] "GET /category/5 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 13:31:28] "GET /category/4 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 13:31:29] "GET /category/5 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 13:31:32] "GET /category/2 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 13:31:35] "GET /category/6 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 13:31:40] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [18/Apr/2021 14:34:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [19/Apr/2021 17:41:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [19/Apr/2021 17:41:26] "GET /static/js/jquery-3.2.1.slim.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [19/Apr/2021 17:41:26] "GET /static/css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [19/Apr/2021 17:41:26] "GET /static/js/popper.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [19/Apr/2021 17:41:26] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [19/Apr/2021 17:41:26] "GET /static/css/perfect_blue.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [19/Apr/2021 17:41:26] "GET /static/js/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [19/Apr/2021 17:41:26] "GET /static/js/moment-with-locales.min.js HTTP/1.1" 304 -
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/graphviz/__init__.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/graphviz/_compat.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/graphviz/backend.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/graphviz/dot.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/graphviz/files.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/graphviz/lang.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/graphviz/tools.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/graphviz/__pycache__/__init__.cpython-38.pyc', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/graphviz/__pycache__/_compat.cpython-38.pyc', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/graphviz/__pycache__/backend.cpython-38.pyc', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/graphviz/__pycache__/dot.cpython-38.pyc', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/graphviz/__pycache__/files.cpython-38.pyc', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/graphviz/__pycache__/lang.cpython-38.pyc', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/graphviz/__pycache__/tools.cpython-38.pyc', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/__init__.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/__init__.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/opperf.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/custom_operations/__init__.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/custom_operations/custom_operations.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/__init__.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/array_rearrange.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/binary_operators.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/binary_operators.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/gemm_operators.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/indexing_routines.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/linalg_operators.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/misc_operators.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/nn_activation_operators.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/nn_basic_operators.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/nn_conv_operators.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/nn_loss_operators.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/nn_optimizer_operators.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/random_sampling_operators.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/reduction_operators.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/sorting_searching_operators.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/nd_operations/unary_operators.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/rules/__init__.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/rules/default_params.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/utils/__init__.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/utils/benchmark_utils.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/utils/benchmark_utils.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/utils/common_utils.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/utils/ndarray_utils.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/utils/op_registry_utils.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/benchmark/opperf/utils/profiler_utils.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/ci/__init__.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/ci/build.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/ci/build_windows.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/ci/dev_menu.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/ci/docker_cache.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/ci/docker_login.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/ci/test_docker_cache.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/ci/test_docker_login.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/ci/util.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/dmlc_tracker/__init__.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/dmlc_tracker/kubernetes.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/dmlc_tracker/launcher.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/dmlc_tracker/local.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/dmlc_tracker/mesos.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/dmlc_tracker/mpi.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/dmlc_tracker/opts.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/dmlc_tracker/sge.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/dmlc_tracker/slurm.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/dmlc_tracker/ssh.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/dmlc_tracker/submit.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/dmlc_tracker/tracker.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/dmlc_tracker/util.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/dmlc_tracker/yarn.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/__init__.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/_api_internal.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/_global_var.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/_numpy_op_doc.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/api.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/attribute.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/autograd.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/base.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/callback.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/context.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/engine.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/error.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/executor.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/executor_manager.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/initializer.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/libinfo.py', reloading
+ * Detected change in '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/mxnet/library.py', reloading
+ * Restarting with fsevents reloader
+ * Debugger is active!
+ * Debugger PIN: 696-756-630
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/click/core.py", line 697, in main
+    rv = self.invoke(ctx)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/click/core.py", line 895, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/click/core.py", line 535, in invoke
+    return callback(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/click/decorators.py", line 64, in new_func
+    return ctx.invoke(f, obj, *args[1:], **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/click/core.py", line 535, in invoke
+    return callback(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/flask/cli.py", line 852, in run_command
+    run_simple(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/serving.py", line 1008, in run_simple
+    run_with_reloader(inner, extra_files, reloader_interval, reloader_type)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_reloader.py", line 333, in run_with_reloader
+    ensure_echo_on()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_reloader.py", line 313, in ensure_echo_on
+    if not sys.stdin.isatty():
+AttributeError: 'NoneType' object has no attribute 'isatty'
+ * Serving Flask app "bluelog" (lazy loading)
+ * Environment: development
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with fsevents reloader
+ * Debugger is active!
+ * Debugger PIN: 696-756-630
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.8/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/click/core.py", line 697, in main
+    rv = self.invoke(ctx)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/click/core.py", line 1066, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/click/core.py", line 895, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/click/core.py", line 535, in invoke
+    return callback(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/click/decorators.py", line 64, in new_func
+    return ctx.invoke(f, obj, *args[1:], **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/click/core.py", line 535, in invoke
+    return callback(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/flask/cli.py", line 852, in run_command
+    run_simple(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/serving.py", line 1008, in run_simple
+    run_with_reloader(inner, extra_files, reloader_interval, reloader_type)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_reloader.py", line 333, in run_with_reloader
+    ensure_echo_on()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_reloader.py", line 313, in ensure_echo_on
+    if not sys.stdin.isatty():
+AttributeError: 'NoneType' object has no attribute 'isatty'
